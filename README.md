@@ -8,7 +8,7 @@ This project analyzes an online music store's database to uncover trends in sale
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 
-**Introduction**
+## Introduction
 📌 Project Overview
 
 This project focuses on analyzing an online music store’s database using SQL. The dataset consists of 11 tables covering employees, customers, invoices, tracks, and more. By running SQL queries, we aim to answer key business questions and extract valuable insights regarding sales, customer behavior, and top-performing genres/artists.
