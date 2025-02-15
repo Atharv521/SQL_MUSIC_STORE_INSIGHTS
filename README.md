@@ -7,6 +7,9 @@ This project analyzes an online music store's database to uncover trends in sale
 - [Questions and Answers](#questions-and-answers)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
+- [Result and Findings](#result-and-findings)
+- [Acknowledgments](#acknowledgments)
+- [Technologies Used](#technologies-used)
 
 ## Introduction
 📌 Project Overview
@@ -178,6 +181,7 @@ SELECT * FROM Customter_with_country WHERE RowNo <= 1
 ├── data/                  # Directory containing the dataset
 ├── queries/               # Directory containing SQL query files
 └── README.md              # Project README file
+```
 
 ## Usage
 
@@ -186,23 +190,17 @@ SELECT * FROM Customter_with_country WHERE RowNo <= 1
 1. Clone the repository:
 
 ```sql
-git clone https://github.com/kishlayjeet/Music-Store-Data-Analysis.git
+https://github.com/Atharv521/SQL_MUSIC_STORE_INSIGHTS.git
+```
 
 2. Import the dataset into your SQL database management system.
 
 3. Run SQL queries located in the queries/ directory against the database to perform data analysis and generate insights.
+   
 
+## Result and Findings
 
-
-📁 Project Structure
-
- Usage🚀
-
-🤝 Contributing
-
-
-
-**🔍 Key Analysis & Insights**
+📈 Following were the fidings from the dataset
 
 ✔️ Identified top-selling genres and artists
 
@@ -212,20 +210,15 @@ git clone https://github.com/kishlayjeet/Music-Store-Data-Analysis.git
 
 ✔️ Examined employee sales performance and contributions
 
-**🛠️ Technologies Used**
+
+## Acknowledgments
+
+- This project was inspired by similar SQL data analysis case studies.
+
+
+## Technologies Used
 
 - SQL (PostgreSQL)
   
 - pgAdmin4 (for database management)
 
-**📈 Results & Findings**
-
-- The Rock genre generated the highest revenue.
-
-- The USA had the most customers and highest total sales.
-
-- Employee Jane Doe had the best sales performance.
-
-**📜 Acknowledgments**
-
-- This project was inspired by similar SQL data analysis case studies.
