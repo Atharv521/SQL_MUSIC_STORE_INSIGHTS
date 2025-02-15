@@ -1,6 +1,34 @@
 # SQL_MUSIC_STORE_INSIGHTS
 This project analyzes an online music store's database to uncover trends in sales, customer behavior, and business performance. By leveraging SQL queries, the analysis provides key insights into revenue patterns, top-selling genres, customer demographics, and employee performance.
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Dataset](#dataset)
+- [Questions and Answers](#questions-and-answers)
+- [Project Structure](#project-structure)
+- [Usage](#usage)
+
+
+## **📑 Table of Contents**
+
+📂 [Dataset] (#dataset)
+
+📝 Schema
+
+❓ Questions & Queries
+
+🔹 Easy Queries
+
+🔸 Moderate Queries
+
+⚡ Advanced Queries
+
+📁 Project Structure
+
+🚀 Usage
+
+🤝 Contributing
+
 **📂 Dataset Information**
 The dataset consists of multiple tables covering various aspects of the music store, including:
 
