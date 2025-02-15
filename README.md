@@ -178,8 +178,10 @@ SELECT * FROM Customter_with_country WHERE RowNo <= 1
 📁 The project repository is structured as follows
 
 ```sql
-├── data/                  # Directory containing the dataset
-├── queries/               # Directory containing SQL query files
+├── Music_Store_database/  # Directory containing the dataset
+├── Easy_Queries/          # Directory containing SQL query files - Easy
+├── Moderate_Queries/      # Directory containing SQL query files - Moderate
+├── Advanced_Queries/      # Directory containing SQL query files - Advanced
 └── README.md              # Project README file
 ```
 
