@@ -23,7 +23,7 @@ This project focuses on analyzing an online music store’s database using SQL. 
 
 This data helps analyze sales trends, customer preferences, and top-performing artists/genres.
 
-<img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/1e1fc09b-b8c1-4a19-8715-3fb97ddc805f" />
+<img width="594" alt="Schema_diagram" src= "https://github.com/user-attachments/assets/bbb4a165-b52b-46c8-99ed-7ce997605c21" />
 
 ## Questions and Answers
 ❓ Questions & Queries - These are divided into three sets.
